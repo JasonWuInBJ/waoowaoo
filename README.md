@@ -2,10 +2,10 @@
 # waoowaoo AI 影视 Studio
 >[!IMPORTANT]
 > **版权声明**：这个是基于开源WaooWaoo进行的二开，定位差异在于服务编导和工作室，而不是普通C端用户，目前处于开发阶段，供尝试。后续功能也会和waoowaoo部分对齐。需要定制开发请提Isuee。
+>
 >⚠️ **测试版声明**：本项目目前处于测试初期阶段，存在部分 bug 和不完善之处。我们正在快速迭代更新中，**目前更新会非常频繁，后续会增加大量新功能以及优化效果，我们的目标是成为行业最强AI工具！**！
 > 
 > ⚠️ **Beta Notice**: This project is currently in its early beta stage. As it is currently a solo-developed project, some bugs and imperfections are to be expected. We are iterating rapidly—please stay tuned for frequent updates! We are committed to rolling out a massive roadmap of new features and optimizations, with the ultimate goal of becoming the top-tier solution in the industry. Your feedback and feature requests are highly welcome!
-<img src="https://github.com/user-attachments/assets/7af53594-88bd-4d96-95dd-581c55e57635" width="30%">
 
 一款基于 AI 技术的短剧/漫画视频制作工具，支持从小说文本自动生成分镜、角色、场景，并制作成完整视频。
 
@@ -107,10 +107,6 @@ After launching, go to **Settings** to configure your AI service API keys. A bui
 
 
 ## 🤝 参与方式 / Contributing
-
-本项目由核心团队独立维护。欢迎你通过以下方式参与：
-
-
 - 🔧 提交 Pull Request 供参考 — 我们会认真审阅每一个 PR 的思路，但最终由团队自行实现修复，不会直接合并外部 PR
 
 This project is maintained by the core team. You're welcome to contribute by:
